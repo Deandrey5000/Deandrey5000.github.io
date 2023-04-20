@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: My First Website
 
 # Your name to show in the footer
-author: Some Person
+author: Anderson Forestal
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -284,7 +284,7 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
+  - jekyll-cayman
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
