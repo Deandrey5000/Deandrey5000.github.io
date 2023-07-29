@@ -1,6 +1,8 @@
 ###########################################################
-theme: jekyll-theme-cayman
-gem "github-pages", group: :jekyll_plugins
-title: [Welcome to the Deandrey5000's homepage!]
-description: [description: Feel free to bookmark this to keep an eye on my project updates]
+theme: jekyll-theme-architect
+title: Anderson Forestal ePortfolio
+description: SNHU CS499 - Computer Science Capstone
+show_downloads: false
+google_analytics: "GTM-PTHS2KL"
+description: [Description: Feel free to bookmark this to keep an eye on my project updates]
 
