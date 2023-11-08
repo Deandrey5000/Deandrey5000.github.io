@@ -73,6 +73,62 @@ p    {color: black;}
 	    <p>While working on the project's implementations, I benefited greatly from this research by strengthening my skills and integrating components to develop practical techniques to accomplish the goal. Furthermore, I have developed an understanding of how data structures and algorithms will help me in my future endeavors. </p>
     <a id="Artifact-Algorithms-and-Data-Structure:" href="#content">Artifact Algorithms and Data Structure.</a>
             <img id="self-assessment" src="img/selfassessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
+	    <p>Pseudocode
+    1. Define structures to hold bids
+    a. Struct Node
+    b. Default constructor
+	Node ()
+    c. initialize with a bid (constructor)
+	Node (Bid a bid)
+    2. Initialize the structures used to hold bids
+	nodes.resize(table size)
+    3. Implement logic to free storage when class is destroyed
+	nodes.erase(nodes.begin()
+    4. Implement logic to calculate the binary search tree value
+	return key % table size
+    5. Implement logic to insert a bid
+    a. Insert (Bid bid)
+    b. if (old Node == null pointer)
+then
+nodes.insert(nodes.begin() + key, (*new Node))
+end if
+else
+Node found
+End else
+    c. if (Node->key == UINT_MAX)
+Then
+Node->key  key
+Node->bid  bid
+end if
+else
+             Find the next open node (last one)
+    d. while (Node->next! = null pointer) 
+Node   Node->next;
+end while
+ Node->next new Node (bid, key);
+    6. Implement logic to print all bids
+    7. Implement logic to remove a bid
+Print All ()
+    a. remove (string bid Id)
+nodes.erase(nodes.begin() + key)
+    8. Implement logic to search for and return a bid
+    a. Search (string bid Id)
+Calculate the key for this bid
+    b. if (node == null pointer || node->key == UINT_MAX)
+end if
+return bid
+            Find that node matches key
+    c. if (node not equal null pointer and node member access key not equal UINT_MAX and node member access bid Id == 0)
+end if
+return node->bid;
+find the match
+    d. while (node! = null pointer) 
+    e. if (node->key! = UINT_MAX and node->bid Id == 0)
+end if    
+                  return node->bid;
+end while	    		
+node  node->next
+return bid</p>
     <a id="ADatabases:" href="#content">Databases.</a>
             <p>The artifact is part of developing a web application that connects a client-side user interface to the Mongo database. The project develops a Python framework that enables CRUD functionality to interact with the Mongo database. As illustrated, the selected artifact demonstrates a solid understanding of Python language and the integration of the MongoDB database through the implementation of Pymongo and MongoClient to allow the Mongo database to interact with the dashboard. Moreover, it demonstrates the ability to implement a dashing table that provides access to large datasets and imports the CSV datasets from a CSV file to MongoDB.</p>
             <p>The dashboard development uses the Dash framework to interact with the Mongo database and to connect the client-side user interface to Mongo. The dashboard interactive module clue the frameworks to facilitate interaction between Mongo and Python. For the client-facing web application to interact with Mongo, several component libraries were imported to allow communication among the frameworks. In order words, understanding and exploring how the dash core, HTML components, and callbacks work to produce an efficient and straightforward coding structure are the components that demonstrate my skills and abilities to connect the dashboard AIP with Jupyter Notebook.</p>
