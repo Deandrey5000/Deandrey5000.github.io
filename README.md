@@ -1,7 +1,13 @@
 # Deandrey5000.github.io
-CS499 Computer Science Capstone 23EW4
-April, 2023
-Overview
+## CS499 Computer Science Capstone 23EW4
+### April, 2023
+#### Overview
+##### Self-reflection
+###### ePortfolio Selection
+###### Code Review
+###### Software Design and Engineering Enhancement
+###### ALgorithms and Data Structures Enhancement
+###### Databases Enhancement
 
 [YouTude video link: CS-260 Algorithms and Data Structures](https://youtu.be/SGMT2h9NUrI)
 
