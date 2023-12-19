@@ -25,19 +25,25 @@ This assignment is an initial plan to follow through with the ePortfolio and dem
 + databases
   
 ###### Code Review
-[Software Design and Engineering artifact]
-[Algorithms and Data Structures Artifact]
-[databases Artifact]
-###### Software Design and Engineering Enhancement
-[Software Design and Engineering Narrative]
-###### ALgorithms and Data Structures Enhancement
-[Algorithms and Data Structures Narrative]
-###### Databases Enhancement
-[databases Narrative]
-
 [YouTude video link: CS-260 Algorithms and Data Structures](https://youtu.be/SGMT2h9NUrI)
 
 [YouTube video link: CS-250 Software Development Lifecycle](https://youtu.be/8t0gwrlkEiM)
 
 [YouTube video link: CS-340 Client Server Development](https://youtu.be/gWEQ7rb7xd4)
+
+###### Software Design and Engineering Enhancement
+[Software Design and Engineering Narrative](Milestone3-2.docx)
+
+This paragraph is a narrative that accompanies the artifact, which aligns with the category of software design and engineering. The enhancement of the artifact selected demonstrates my proficiency, knowledge, and skills in implementing techniques to complete a polished project and the ability to solve complex problems in the software development process. This paper explains why the selected artifact was chosen and demonstrates my ability to use collaborative tools and techniques to implement the project to solve logical problems and address security flaws and defects embedded in software design early in development. Thus far, the goal is to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+
+###### ALgorithms and Data Structures Enhancement
+[Algorithms and Data Structures Narrative](Milestone4-2.docx)
+
+The artifact is a binary search tree that accommodates several methods, which manage the creation of a search tree, insertion of nodes, deletion of nodes, and searching and displaying specified nodes. The objective of the artifact was to allocate resources to an acceptable performance to ensure that the best possible performance was being achieved. Speaking of enhancing the artifact, I chose the selected artifact because an understanding of complex data structures and algorithms is extremely helpful in situations where it is necessary to complete a task in a short amount of time with efficiency and using fewer resources. Moreover, It is necessary when searching and sorting through data tables to analyze interesting instances and solve real-life problems that companies are faced.
+
+###### Databases Enhancement
+[databases Narrative](Milestone5-2.docx)
+
+The artifact is part of developing a web application that connects a client-side user interface to the Mongo database. The project develops a python framework that enables CRUD functionality to interact with the Mongo database. As illustrated, the selected artifact demonstrates a solid understanding of Python language and the integration of the MongoDB database through the implementation of Pymongo and MongoClient to allow the mongo database to interact with the dashboard. Moreover, it demonstrates the ability to implement a dashing table that provides access to large datasets and imports the CSV datasets from a CSV file to MongoDB.
+
 
