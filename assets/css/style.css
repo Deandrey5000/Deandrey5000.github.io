@@ -1,5 +1,6 @@
 /* Style the container with a rounded border, grey background and some padding and margin */
-.container {
+.container, h1, h2 {
+  text-color: 
   border: 2px solid #ccc;
   background-color: #eee;
   border-radius: 5px;
