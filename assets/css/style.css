@@ -1,6 +1,6 @@
 /* Style the container with a rounded border, grey background and some padding and margin */
 .container, h1, h2 {
-  text-family:  
+  text-family:"Brush Script MT", cursive; 
   border: 2px solid #ccc;
   background-color: #0040ff;
   border-radius: 5px;
