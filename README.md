@@ -53,7 +53,7 @@ This paragraph is a narrative that accompanies the artifact, which aligns with t
 The artifact is a binary search tree that accommodates several methods, which manage the creation of a search tree, insertion of nodes, deletion of nodes, and searching and displaying specified nodes. The objective of the artifact was to allocate resources to an acceptable performance to ensure that the best possible performance was being achieved. Speaking of enhancing the artifact, I chose the selected artifact because an understanding of complex data structures and algorithms is extremely helpful in situations where it is necessary to complete a task in a short amount of time with efficiency and using fewer resources. Moreover, It is necessary when searching and sorting through data tables to analyze interesting instances and solve real-life problems that companies are faced.
 
 # Databases Enhancement
-[databases Narrative](Milestone5-2.docx)
+[databases Narrative](https://github.com/Deandrey5000/Deandrey5000.github.io/blob/master/CS-499/Milestone5-2.docx)
 
 The artifact is part of developing a web application that connects a client-side user interface to the Mongo database. The project develops a python framework that enables CRUD functionality to interact with the Mongo database. As illustrated, the selected artifact demonstrates a solid understanding of Python language and the integration of the MongoDB database through the implementation of Pymongo and MongoClient to allow the mongo database to interact with the dashboard. Moreover, it demonstrates the ability to implement a dashing table that provides access to large datasets and imports the CSV datasets from a CSV file to MongoDB.
 
