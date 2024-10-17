@@ -22,7 +22,7 @@ I work as a Senior Manufacturing Engineering Technician for Bose Corporation. Be
 
 Throughout the Computer Science Program, I have learned valuable skills that position me to the top marketable career that significantly projected growth rate faster than all other occupations nationwide (Kathleen, 2023). These skills that I learned from the computer science program will be added to my portfolio to boost my chances of employment. When I reflect on my previous experience, I see where I can enhance these skills to apply to multiple industries. With that said, a bachelor’s degree in computer science opens doors to exciting and lucrative professional opportunities in software development, computer programming, software engineering, and database administration that make the investment worthwhile (Kathleen, 2023).
 
-[Journal: Marketing with ePortfolio and artifact Update](CS-499/Journal3-1.docx)
+[Journal: Marketing with ePortfolio and artifact Update](https://github.com/Deandrey5000/Deandrey5000.github.io/blob/master/CS-499/Journal3-1.docx)
 
 In this paper, I use the ePortfolio as a vehicle for formative assessment of my accomplishments by connecting my experiences and knowledge gained through my academic years and workplace performance.
 
