@@ -5,6 +5,7 @@
 ---
 [![Generic badge](https://img.shields.io/badge/page_builder-GitHub_Pages-blue.svg)](https://pages.github.com/) [![Generic badge](https://img.shields.io/badge/language-Markdown_\|_HTML-blueviolet.svg)](https://www.markdownguide.org/) [![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-purple.svg)](https://desktop.github.com/) 
 # Overview
+This ePortfolio integrates the acquired knowledge and skills developed throughout the academic years of studying a Computer Science program at Southern New Hampshire University (SNHU). I have been in the computer science program since August 2018. Throughout the program, I have consistently been practicing my coding and programming skills to demonstrate my ability to code securely by adopting SEI CERT secure coding standards to ensure applications software is safeguarded against vulnerabilities, errors, and bugs. Over the years, I developed coding best practices to ensure codes are maintainable, readable, and adaptable. Moreover, I expanded my skill set to become proficient in diverse programming languages. This ePortfolio is designed to demonstrate my background and give an overview of what I accomplished throughout the SNHU Computer Science Program. Furthermore, it illustrated the skills and concepts learned in various languages to develop software that adheres to the coding standards to eliminate security risks and vulnerabilities.
 ---
 [![Generic badge](https://img.shields.io/badge/Home-ePortfolio-blue.svg)](https://pages.github.com/)
 ##### Self-reflections
