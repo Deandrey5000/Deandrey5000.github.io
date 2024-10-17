@@ -27,7 +27,7 @@ Throughout the Computer Science Program, I have learned valuable skills that pos
 In this paper, I use the ePortfolio as a vehicle for formative assessment of my accomplishments by connecting my experiences and knowledge gained through my academic years and workplace performance.
 
 # ePortfolio Selection
-[Initial Plan](CS-499/eportfolio1-4.docx)
+[Initial Plan](https://github.com/Deandrey5000/Deandrey5000.github.io/blob/master/CS-499/ePortfolio1-4.docx)
 
 This assignment is an initial plan to follow through with the ePortfolio and demonstrate my skills in three categories within computer science: software design/engineering, algorithms and data structures, and Databases. This plan is a way to start a discussion and propose enhancements to refine the three categories of artifacts.
 
