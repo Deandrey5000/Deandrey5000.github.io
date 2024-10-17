@@ -43,7 +43,7 @@ This assignment is an initial plan to follow through with the ePortfolio and dem
 [YouTube video link: CS-340 Client Server Development](https://youtu.be/gWEQ7rb7xd4)
 
 # Software Design and Engineering Enhancement
-[Software Design and Engineering Narrative](Milestone3-2.docx)
+[Software Design and Engineering Narrative](https://github.com/Deandrey5000/Deandrey5000.github.io/blob/master/CS-499/Milestone3-2.docx)
 
 This paragraph is a narrative that accompanies the artifact, which aligns with the category of software design and engineering. The enhancement of the artifact selected demonstrates my proficiency, knowledge, and skills in implementing techniques to complete a polished project and the ability to solve complex problems in the software development process. This paper explains why the selected artifact was chosen and demonstrates my ability to use collaborative tools and techniques to implement the project to solve logical problems and address security flaws and defects embedded in software design early in development. Thus far, the goal is to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
