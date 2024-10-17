@@ -3,7 +3,7 @@
 ## CS499 Computer Science Capstone 23EW4
 ### April, 2023
 ---
-[![Generic badge](https://img.shields.io/badge/page_builder-GitHub_Pages-blue.svg)](https://pages.github.com/) [![Generic badge](https://img.shields.io/badge/language-Markdown_\|_HTML-cyan.svg)](https://www.markdownguide.org/) [![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-purple.svg)](https://desktop.github.com/) 
+[![Generic badge](https://img.shields.io/badge/page_builder-GitHub_Pages-blue.svg)](https://pages.github.com/) [![Generic badge](https://img.shields.io/badge/language-Markdown_\|_HTML-blueviolet.svg)](https://www.markdownguide.org/) [![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-purple.svg)](https://desktop.github.com/) 
 # Overview
 ---
 [![Generic badge](https://img.shields.io/badge/Home-ePortfolio-blue.svg)](https://pages.github.com/)
@@ -51,5 +51,5 @@ The artifact is a binary search tree that accommodates several methods, which ma
 
 The artifact is part of developing a web application that connects a client-side user interface to the Mongo database. The project develops a python framework that enables CRUD functionality to interact with the Mongo database. As illustrated, the selected artifact demonstrates a solid understanding of Python language and the integration of the MongoDB database through the implementation of Pymongo and MongoClient to allow the mongo database to interact with the dashboard. Moreover, it demonstrates the ability to implement a dashing table that provides access to large datasets and imports the CSV datasets from a CSV file to MongoDB.
 ---
-[![Generic badge](https://img.shields.io/badge/Home-ePortfolio-blue.svg)](https://pages.github.com/) [![Generic badge](https://img.shields.io/badge/Repository-SNHU-purple.svg)](https://pages.github.com/)
+[![Generic badge](https://img.shields.io/badge/Home-ePortfolio-blue.svg)](https://pages.github.com/) [![Generic badge](https://img.shields.io/badge/Repository-SNHU-blueviolet.svg)](https://pages.github.com/)
 
