@@ -1,3 +1,4 @@
+https://img.shields.io/badge/page builder-GitHub Pages-blue https://img.shields.io/badge/language -Mackdown-orange https://img.shields.io/badge/any_text-you_like-blue
 # Deandrey5000.github.io
 ## CS499 Computer Science Capstone 23EW4
 ### April, 2023
