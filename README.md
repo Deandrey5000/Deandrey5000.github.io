@@ -1,8 +1,12 @@
-https://img.shields.io/badge/page builder-GitHub Pages-blue https://img.shields.io/badge/language -Mackdown-orange https://img.shields.io/badge/any_text-you_like-blue
-# Deandrey5000.github.io
+
+# ePortfolio
 ## CS499 Computer Science Capstone 23EW4
 ### April, 2023
-#### Overview
+---
+[![Generic badge](https://img.shields.io/badge/page_builder-GitHub_Pages-blue.svg)](https://pages.github.com/) [![Generic badge](https://img.shields.io/badge/language-Markdown_\|_HTML-cyan.svg)](https://www.markdownguide.org/) [![Generic badge](https://img.shields.io/badge/collaboration_tool-GitHub_Desktop-purple.svg)](https://desktop.github.com/) [![Generic badge](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+# Overview
+---
+[![Generic badge](https://img.shields.io/badge/Home-ePortfolio-blue.svg)](https://pages.github.com/)
 ##### Self-reflections
 [Journal: self-Introduction](CS-499/Journal1-1.docx)
 
